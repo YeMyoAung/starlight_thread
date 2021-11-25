@@ -28,7 +28,7 @@ Add responsive_builder as dependency to your pubspec file.
 ```dart
 starlight_thread: 
     git:
-      url: https://github.com/YeMyoAung/starlight_responsive_builder.git
+      url: https://github.com/YeMyoAung/starlight_thread.git
 ```
 
 ## Usage
