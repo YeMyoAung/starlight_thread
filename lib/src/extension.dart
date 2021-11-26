@@ -1,6 +1,6 @@
-part of '../starlight_thread.dart';
+part of starlight_thread;
 
-extension StarlightThreadExtension<R, T> on StarlightThread {
+extension _StarlightThreadExtension<R, T> on StarlightThread {
   String get _debugName =>
       "${_dateTime.year}${_dateTime.month}${_dateTime.day}${_dateTime.hour}${_dateTime.minute}${_dateTime.second}";
 
