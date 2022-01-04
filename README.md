@@ -23,7 +23,7 @@ There is two way to use such as Steam version and Future version.
 
 ## Installation
 
-Add responsive_builder as dependency to your pubspec file.
+Add starlight_thread as dependency to your pubspec file.
 
 ```dart
 starlight_thread: 
